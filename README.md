@@ -1,3 +1,4 @@
+
 #Sistema de Gerenciamento de Hotel🏨
 
 Sistema de gerenciamento de hotel desenvolvido em **Python** como trabalho final da disciplina de Programação 1 no curso de Ciência da Computação(UFF).  
@@ -35,7 +36,7 @@ O sistema funciona inteiramente via **terminal**, sem interface gráfica, focand
 ## 📁 Estrutura do Projeto
 
 Hotel/
-│
+
 ├── main.py # Ponto de entrada do sistema
 
 ├── etapa1_geracao.py # Responsável pela geração de dados
