@@ -37,10 +37,15 @@ O sistema funciona inteiramente via **terminal**, sem interface gráfica, focand
 Hotel/
 │
 ├── main.py # Ponto de entrada do sistema
+
 ├── etapa1_geracao.py # Responsável pela geração de dados
+
 ├── etapa2_leitura.py # Leitura e carregamento das informações
+
 ├── etapa3_operacoes.py # Operações principais do sistema
+
 ├── pycache/ # Arquivos gerados automaticamente pelo Python
+
 └── .gitignore
 
 ---
