@@ -1,5 +1,5 @@
 
-#Sistema de Gerenciamento de Hotel🏨
+# Sistema de Gerenciamento de Hotel🏨
 
 Sistema de gerenciamento de hotel desenvolvido em **Python** como trabalho final da disciplina de Programação 1 no curso de Ciência da Computação(UFF).  
 O projeto simula operações básicas de um hotel, aplicando conceitos fundamentais de programação, modularização e manipulação de dados.
